@@ -1,0 +1,21 @@
+{
+  "name": "typescriptbetest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teddorian/TypeScriptBEtest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teddorian/TypeScriptBEtest/issues"
+  },
+  "homepage": "https://github.com/teddorian/TypeScriptBEtest#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.29.2"
+  }
+}
